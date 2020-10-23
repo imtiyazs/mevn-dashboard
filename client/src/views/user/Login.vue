@@ -128,7 +128,8 @@ export default {
       },
       googleLoginParams: {
         client_id:
-          "382853386402-6jbqm9suqs9jdgrrblic3f968nlsq5j9.apps.googleusercontent.com"
+          "382853386402-ep44pmr5ijnicr5n2hq8u602pt9ugctp.apps.googleusercontent.com"
+        // "382853386402-6jbqm9suqs9jdgrrblic3f968nlsq5j9.apps.googleusercontent.com"
       },
       renderParams: {
         longtitle: true
