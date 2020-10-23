@@ -14,5 +14,5 @@ export const localeOptions = [
 
 export const themeRadiusStorageKey = "theme_radius";
 export const themeSelectedColorStorageKey = "theme_selected_color";
-export const defaultColor = "dark.blueolympic";
+export const defaultColor = "light.blueolympic";
 export const colors = ["blueolympic"];
