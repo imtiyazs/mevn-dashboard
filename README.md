@@ -1,6 +1,10 @@
 # MEVN Dashboard - Sample Project
 A starter project for admin dashboard in MongoDB-Express-VueJS-NodeJS 
 
+Note:
+- You need to create .env file in server that holds configurations
+
+
 Client Development:
 ```
 cd client
